@@ -1,0 +1,3 @@
+Summary 
+
+Merging is the process to merge different branch into the original (main) branch.
