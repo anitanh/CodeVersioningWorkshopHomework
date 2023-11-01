@@ -1,0 +1,6 @@
+Summary
+
+Using branch we can have a separate workspace using our original code as a base and modify it as we need without changing the original code. 
+When we are confident with your changes then we can merge the code from the branch into original code.
+
+Branch also allows us to work on different thing in parallel without disrupting the original code.
